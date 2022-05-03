@@ -1,5 +1,5 @@
 # Battmeter
-Simple Battery-Monitoring-Script in Python
+Simple Battery-Monitoring-Script in Python for Linux relying on the [Power Supply Class](https://www.kernel.org/doc/Documentation/power/power_supply_class.txt) `/sys/class/power_supply/`
 
 Just run `python battmeter.py`
 
